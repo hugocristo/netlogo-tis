@@ -11,5 +11,5 @@ Pesquisa desenvolvida com recursos do Edital PIIC 2023/2024 (CNPq)
 # Sobre o modelo
 
 * [Descrição ODD](https://github.com/hugocristo/netlogo-tis/blob/main/ODD-TIS-v3.pdf) (PDF)
-* Visualização do modelo online (Modeling Commons)
+* [Visualização do modelo online](https://netlogoweb.org/launch#https://raw.githubusercontent.com/hugocristo/netlogo-tis/refs/heads/main/modelo-tis.nlogo) (NetLogo Web)
 * [Código-fonte](https://github.com/hugocristo/netlogo-tis/blob/main/modelo-tis.nlogo), versão 14 (NetLogo 6.4)
