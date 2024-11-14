@@ -24,7 +24,8 @@ Pesquisa desenvolvida com recursos do Edital PIIC 2022/2023 (CNPq)
 
 ### Resultados
 
-* [Poster](https://github.com/hugocristo/netlogo-tis/blob/main/banner-jornada-ufes-2023.pdf) apresentado na Jornada de Iniciação Científica da Ufes e na Reunião Anual da Sociedade Brasileira de Psicologia (2023).
+* [Poster](https://github.com/hugocristo/netlogo-tis/blob/main/banner-jornada-ufes-2023.pdf) apresentado na Jornada de Iniciação Científica da Ufes e na 53ª Reunião Anual da Sociedade Brasileira de Psicologia (2023).
+* Trabalho vencedor 2º lugar do [Prêmio Reinier Johannes Antonius Rozenstraten](https://forma.ufes.br/2023/11/iniciacao-cientifica-do-forma-premiada-na-53a-reuniao-anual-da-sbp/).
 
 
 ## 2. Psicologia Social Computacional: Teoria da Identidade Social (2023-2024)
