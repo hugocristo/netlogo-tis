@@ -11,7 +11,9 @@ Pesquisa desenvolvida com recursos do Edital PIIC 2023/2024 (CNPq)
 # Contato
 
 Grupo de Pesquisa em Formalizações Matemáticas da Cognição e Design - Forma/Ufes
+
 Centro de Artes - Cemuni IV, sala 15
+
 forma@ufes.br | www.forma.ufes.br | [@formaufes](https://instagram.com/formaufes)
 
 # Sobre o modelo
