@@ -14,7 +14,7 @@ Grupo de Pesquisa em Formalizações Matemáticas da Cognição e Design - Forma
 
 Centro de Artes - Cemuni IV, sala 15
 
-forma@ufes.br | www.forma.ufes.br | [@formaufes](https://instagram.com/formaufes)
+forma@ufes.br | [forma.ufes.br](https://forma.ufes.br) | Instagram: [@formaufes](https://instagram.com/formaufes)
 
 # Sobre o modelo
 
