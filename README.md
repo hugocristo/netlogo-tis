@@ -2,13 +2,14 @@
 
 Este repositório concentra os resultados do projeto de pesquisa coordenado pelo Prof. Hugo Cristo na Universidade Federal do Espírito Santo. 
 
-# Contato
+**Contatos**
 
-Grupo de Pesquisa em Formalizações Matemáticas da Cognição e Design - Forma/Ufes
+* Grupo de Pesquisa em Formalizações Matemáticas da Cognição e Design - Forma/Ufes
+* Ufes Campus Goiabeiras - Centro de Artes - Cemuni IV, sala 15
+* E-mail: forma@ufes.br
+* Site: [forma.ufes.br](https://forma.ufes.br)
+* Instagram: [@formaufes](https://instagram.com/formaufes)
 
-Centro de Artes - Cemuni IV, sala 15
-
-E-mail: forma@ufes.br | Site: [forma.ufes.br](https://forma.ufes.br) | Instagram: [@formaufes](https://instagram.com/formaufes)
 
 ## 1. Psicologia Social Computacional e Modelagem Baseada em Agentes (2022-2023)
 
@@ -37,7 +38,7 @@ Este subprojeto teve como objetivo desenvolver um modelo computacional baseado n
 
 Pesquisa desenvolvida com recursos do Edital PIIC 2023/2024 (CNPq)
 
-### Sobre o modelo
+### Resultados
 
 * [Descrição ODD](https://github.com/hugocristo/netlogo-tis/blob/main/ODD-TIS-v3.pdf) (PDF)
 * [Visualização do modelo online](https://netlogoweb.org/launch#https://raw.githubusercontent.com/hugocristo/netlogo-tis/refs/heads/main/modelo-tis.nlogo) (NetLogo Web)
